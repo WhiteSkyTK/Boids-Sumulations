@@ -2,7 +2,7 @@
 
 A comparative implementation of the classic "Boids" flocking algorithm. This repository contains two versions: a readable **Object-Oriented** version and a high-performance **NumPy** version.
 
-**🔗 [View the Video Demo](LINK_TO_VIDEO)**
+**🔗 [View the Video Demo](https://youtu.be/p4BB9egkPhw)**
 
 ## 🧪 The Algorithm
 Both simulations follow Craig Reynolds' three core rules:
